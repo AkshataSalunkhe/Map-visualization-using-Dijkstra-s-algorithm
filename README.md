@@ -18,3 +18,14 @@ Roads play a Major role to the people live in various states, cities, town and v
         ii. Graph
 
 ### Dijkstra's algorithm: 
+ 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/52063747/115923535-ff987600-a49b-11eb-83ea-6f86adcb817a.png">
+</p>
+
+### Flowchart
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/52063747/115959818-b98af300-a52b-11eb-969d-b2a648096267.png">
+</p>
+
