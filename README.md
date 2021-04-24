@@ -11,7 +11,6 @@ Roads play a Major role to the people live in various states, cities, town and v
 1. Object Oriented Programming:
 
        i. Class and objects
-       ii.
 2. Data Structure and Algorithms:
 
         i.  Dijkstra's algorithm
